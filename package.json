@@ -1,10 +1,10 @@
 {
-  "name": "honeycomb",
-  "description": "all-in-one task starter app with jsPsych + React + Electron + psiturk ",
+  "name": "honeycomb-test",
+  "description": "Trying out Honeycomb during workshop",
   "author": {
-    "name": "Brown CCV",
+    "name": "SDQN",
     "email": "ccv-bot@brown.edu",
-    "url": "ccv.brown.edu"
+    "url": ""
   },
   "version": "2.3.1",
   "license": "MIT",
